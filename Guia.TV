@@ -1,0 +1,1032 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.0.6 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="A&amp;E">
+    <display-name lang="pt">A&amp;E</display-name>
+    <icon src="http://www.lineup.net.br/canais/ae.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Telecine Premium">
+    <display-name lang="pt">Telecine Premium</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Action">
+    <display-name lang="pt">Telecine Action</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Touch">
+    <display-name lang="pt">Telecine Touch</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Fun">
+    <display-name lang="pt">Telecine Fun</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Pipoca">
+    <display-name lang="pt">Telecine Pipoca</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Cult">
+    <display-name lang="pt">Telecine Cult</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="pt">HBO</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="pt">HBO 2</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO Plus">
+    <display-name lang="pt">HBO Plus</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO Plus*e">
+    <display-name lang="pt">HBO Plus*e</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO Family">
+    <display-name lang="pt">HBO Family</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO Signature">
+    <display-name lang="pt">HBO Signature</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Max UP">
+    <display-name lang="pt">Max UP</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Max">
+    <display-name lang="pt">Max</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Max Prime">
+    <display-name lang="pt">Max Prime</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Max Prime*e">
+    <display-name lang="pt">Max Prime*e</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="pt">AMC</display-name>
+    <icon src="http://www.lineup.net.br/canais/amc.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="pt">Animal Planet</display-name>
+    <icon src="http://www.lineup.net.br/canais/animalplanet.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Arte 1">
+    <display-name lang="pt">Arte 1</display-name>
+    <icon src="http://www.lineup.net.br/canais/arte1.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="pt">AXN</display-name>
+    <icon src="http://www.lineup.net.br/canais/axn.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Band SP">
+    <display-name lang="pt">Band SP</display-name>
+    <icon src="http://www.lineup.net.br/canais/band-sp.gif|http://www.lineup.net.br/canais/band.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BandNews">
+    <display-name lang="pt">BandNews</display-name>
+    <icon src="http://www.lineup.net.br/canais/bandnews.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BandSports">
+    <display-name lang="pt">BandSports</display-name>
+    <icon src="http://www.lineup.net.br/canais/bandsports.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BIS">
+    <display-name lang="pt">BIS</display-name>
+    <icon src="http://www.lineup.net.br/canais/bis.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Boa Vontade TV">
+    <display-name lang="pt">Boa Vontade TV</display-name>
+    <icon src="http://www.lineup.net.br/canais/boavontadetv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Boas Novas">
+    <display-name lang="pt">Boas Novas</display-name>
+    <icon src="http://www.lineup.net.br/canais/boasnovas.gif|http://www.lineup.net.br/canais/redegenesis.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Boomerang">
+    <display-name lang="pt">Boomerang</display-name>
+    <icon src="http://www.lineup.net.br/canais/boomerang.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Canal Brasil">
+    <display-name lang="pt">Canal Brasil</display-name>
+    <icon src="http://www.lineup.net.br/canais/canalbrasil.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Canal do Boi">
+    <display-name lang="pt">Canal do Boi</display-name>
+    <icon src="http://www.lineup.net.br/canais/canaldoboi.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Canal Rural">
+    <display-name lang="pt">Canal Rural</display-name>
+    <icon src="http://www.lineup.net.br/canais/canalrural.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Canção Nova">
+    <display-name lang="pt">Canção Nova</display-name>
+    <icon src="http://www.lineup.net.br/canais/cancaonova.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="pt">Cartoon Network</display-name>
+    <icon src="http://www.lineup.net.br/canais/cartoonnetwork.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Chef TV">
+    <display-name lang="pt">Chef TV</display-name>
+    <icon src="http://www.lineup.net.br/canais/cheftv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CineBrasil TV">
+    <display-name lang="pt">CineBrasil TV</display-name>
+    <icon src="http://www.lineup.net.br/canais/cinebrasiltv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Cinemax">
+    <display-name lang="pt">Cinemax</display-name>
+    <icon src="http://www.lineup.net.br/canais/cinemax.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name lang="pt">Comedy Central</display-name>
+    <icon src="http://www.lineup.net.br/canais/comedycentral.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Conexão BR">
+    <display-name lang="pt">Conexão BR</display-name>
+    <icon src="http://www.lineup.net.br/canais/conexaobr.gif|http://www.lineup.net.br/canais/tval-mt.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Cultura">
+    <display-name lang="pt">Cultura</display-name>
+    <icon src="http://www.lineup.net.br/canais/cultura.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Curta!">
+    <display-name lang="pt">Curta!</display-name>
+    <icon src="http://www.lineup.net.br/canais/curta.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery Civilization">
+    <display-name lang="pt">Discovery Civilization</display-name>
+    <icon src="http://www.lineup.net.br/canais/discoverycivilization.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery Home &amp; Health">
+    <display-name lang="pt">Discovery Home &amp; Health</display-name>
+    <icon src="http://www.lineup.net.br/canais/discoveryhomeandhealth.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery Kids">
+    <display-name lang="pt">Discovery Kids</display-name>
+    <icon src="http://www.lineup.net.br/canais/discoverykids.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery Science">
+    <display-name lang="pt">Discovery Science</display-name>
+    <icon src="http://www.lineup.net.br/canais/discoveryscience.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery Theater">
+    <display-name lang="pt">Discovery Theater</display-name>
+    <icon src="http://www.lineup.net.br/canais/discoverytheater.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery Turbo">
+    <display-name lang="pt">Discovery Turbo</display-name>
+    <icon src="http://www.lineup.net.br/canais/discoveryturbo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery World">
+    <display-name lang="pt">Discovery World</display-name>
+    <icon src="http://www.lineup.net.br/canais/discoveryworld.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="pt">Discovery Channel</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="pt">Disney Channel</display-name>
+    <icon src="http://www.lineup.net.br/canais/disney.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Disney Junior">
+    <display-name lang="pt">Disney Junior</display-name>
+    <icon src="http://www.lineup.net.br/canais/disneyjunior.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Disney XD">
+    <display-name lang="pt">Disney XD</display-name>
+    <icon src="http://www.lineup.net.br/canais/disneyxd.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="E!">
+    <display-name lang="pt">E!</display-name>
+    <icon src="http://www.lineup.net.br/canais/e.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="EI Maxx">
+    <display-name lang="pt">EI Maxx</display-name>
+    <icon src="http://www.lineup.net.br/canais/eimaxx.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="EI Maxx 2">
+    <display-name lang="pt">EI Maxx 2</display-name>
+    <icon src="http://www.lineup.net.br/canais/eimaxx2.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN">
+    <display-name lang="pt">ESPN</display-name>
+    <icon src="http://www.lineup.net.br/canais/espn.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN +">
+    <display-name lang="pt">ESPN +</display-name>
+    <icon src="http://www.lineup.net.br/canais/espnmais.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN Brasil">
+    <display-name lang="pt">ESPN Brasil</display-name>
+    <icon src="http://www.lineup.net.br/canais/espnbrasil.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN Extra">
+    <display-name lang="pt">ESPN Extra</display-name>
+    <icon src="http://www.lineup.net.br/canais/espnextra.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Esporte Interativo">
+    <display-name lang="pt">Esporte Interativo</display-name>
+    <icon src="http://www.lineup.net.br/canais/esporteinterativo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Fish TV">
+    <display-name lang="pt">Fish TV</display-name>
+    <icon src="http://www.lineup.net.br/canais/fishtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Food Network">
+    <display-name lang="pt">Food Network</display-name>
+    <icon src="http://www.lineup.net.br/canais/food.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Fox">
+    <display-name lang="pt">Fox</display-name>
+    <icon src="http://www.lineup.net.br/canais/fox.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FoxLife">
+    <display-name lang="pt">FoxLife</display-name>
+    <icon src="http://www.lineup.net.br/canais/foxlife.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FoxNews">
+    <display-name lang="pt">FoxNews</display-name>
+    <icon src="http://www.lineup.net.br/canais/foxnews.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FoxSports">
+    <display-name lang="pt">FoxSports</display-name>
+    <icon src="http://www.lineup.net.br/canais/foxsports.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FoxSports 2">
+    <display-name lang="pt">FoxSports 2</display-name>
+    <icon src="http://www.lineup.net.br/canais/foxsports2.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Futura">
+    <display-name lang="pt">Futura</display-name>
+    <icon src="http://www.lineup.net.br/canais/futura.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FX">
+    <display-name lang="pt">FX</display-name>
+    <icon src="http://www.lineup.net.br/canais/fx.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Gazeta">
+    <display-name lang="pt">Gazeta</display-name>
+    <icon src="http://www.lineup.net.br/canais/gazeta.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Globo Brasília">
+    <display-name lang="pt">Globo Brasília</display-name>
+    <icon src="http://www.lineup.net.br/canais/globo-df.gif|http://www.lineup.net.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Globo SP">
+    <display-name lang="pt">Globo SP</display-name>
+    <icon src="http://www.lineup.net.br/canais/globo-sp.gif|http://www.lineup.net.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="GloboNews">
+    <display-name lang="pt">GloboNews</display-name>
+    <icon src="http://www.lineup.net.br/canais/globonews.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Gloob ">
+    <display-name lang="pt">Gloob </display-name>
+    <icon src="http://www.lineup.net.br/canais/gloob.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="GNT">
+    <display-name lang="pt">GNT</display-name>
+    <icon src="http://www.lineup.net.br/canais/gnt.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="H2">
+    <display-name lang="pt">H2</display-name>
+    <icon src="http://www.lineup.net.br/canais/h2.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="History">
+    <display-name lang="pt">History</display-name>
+    <icon src="http://www.lineup.net.br/canais/history.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="I.Sat">
+    <display-name lang="pt">I.Sat</display-name>
+    <icon src="http://www.lineup.net.br/canais/isat.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ID: Investigação Discovery">
+    <display-name lang="pt">ID: Investigação Discovery</display-name>
+    <icon src="http://www.lineup.net.br/canais/id.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Ideal TV">
+    <display-name lang="pt">Ideal TV</display-name>
+    <icon src="http://www.lineup.net.br/canais/ideal.gif|http://www.lineup.net.br/canais/tvuniversal.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Lifetime">
+    <display-name lang="pt">Lifetime</display-name>
+    <icon src="http://www.lineup.net.br/canais/lifetime.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Mais GloboSat">
+    <display-name lang="pt">Mais GloboSat</display-name>
+    <icon src="http://www.lineup.net.br/canais/maisglobosat.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Megapix">
+    <display-name lang="pt">Megapix</display-name>
+    <icon src="http://www.lineup.net.br/canais/megapix.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="pt">MTV</display-name>
+    <icon src="http://www.lineup.net.br/canais/mtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Multishow">
+    <display-name lang="pt">Multishow</display-name>
+    <icon src="http://www.lineup.net.br/canais/multishow.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Music Box Brazil">
+    <display-name lang="pt">Music Box Brazil</display-name>
+    <icon src="http://www.lineup.net.br/canais/musicboxbrazil.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="NatGeo">
+    <display-name lang="pt">NatGeo</display-name>
+    <icon src="http://www.lineup.net.br/canais/natgeo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="NatGeo Wild">
+    <display-name lang="pt">NatGeo Wild</display-name>
+    <icon src="http://www.lineup.net.br/canais/natgeowild.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="NHK PREMIUM">
+    <display-name lang="pt">NHK PREMIUM</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="NBR">
+    <display-name lang="pt">NBR</display-name>
+    <icon src="http://www.lineup.net.br/canais/nbr.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="NGT">
+    <display-name lang="pt">NGT</display-name>
+    <icon src="http://www.lineup.net.br/canais/ngt.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Nick">
+    <display-name lang="pt">Nick</display-name>
+    <icon src="http://www.lineup.net.br/canais/nick.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Nick Jr.">
+    <display-name lang="pt">Nick Jr.</display-name>
+    <icon src="http://www.lineup.net.br/canais/nickjr.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Off">
+    <display-name lang="pt">Off</display-name>
+    <icon src="http://www.lineup.net.br/canais/off.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Paramount Channel">
+    <display-name lang="pt">Paramount Channel</display-name>
+    <icon src="http://www.lineup.net.br/canais/paramount.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="PlayTV">
+    <display-name lang="pt">PlayTV</display-name>
+    <icon src="http://www.lineup.net.br/canais/playtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Polishop TV">
+    <display-name lang="pt">Polishop TV</display-name>
+    <icon src="http://www.lineup.net.br/canais/polishoptv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Prime Box Brazil">
+    <display-name lang="pt">Prime Box Brazil</display-name>
+    <icon src="http://www.lineup.net.br/canais/primeboxbrazil.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RBI TV">
+    <display-name lang="pt">RBI TV</display-name>
+    <icon src="http://www.lineup.net.br/canais/rbitv.gif|http://www.lineup.net.br/canais/iaptd.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RBS TV Porto Alegre">
+    <display-name lang="pt">RBS TV Porto Alegre</display-name>
+    <icon src="http://www.lineup.net.br/canais/rbs.gif|http://www.lineup.net.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Record News">
+    <display-name lang="pt">Record News</display-name>
+    <icon src="http://www.lineup.net.br/canais/recordnews.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Record Paulista">
+    <display-name lang="pt">Record Paulista</display-name>
+    <icon src="http://www.lineup.net.br/canais/recordtv-paulista.gif|http://www.lineup.net.br/canais/recordtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Rede Brasil">
+    <display-name lang="pt">Rede Brasil</display-name>
+    <icon src="http://www.lineup.net.br/canais/redebrasil.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Rede Super">
+    <display-name lang="pt">Rede Super</display-name>
+    <icon src="http://www.lineup.net.br/canais/redesuper.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Rede Vida">
+    <display-name lang="pt">Rede Vida</display-name>
+    <icon src="http://www.lineup.net.br/canais/redevida.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RedeTV!">
+    <display-name lang="pt">RedeTV!</display-name>
+    <icon src="http://www.lineup.net.br/canais/redetv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RIT">
+    <display-name lang="pt">RIT</display-name>
+    <icon src="http://www.lineup.net.br/canais/rit.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SBT">
+    <display-name lang="pt">SBT</display-name>
+    <icon src="http://www.lineup.net.br/canais/sbt.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Shoptime">
+    <display-name lang="pt">Shoptime</display-name>
+    <icon src="http://www.lineup.net.br/canais/shoptime.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SIC Internacional">
+    <display-name lang="pt">SIC Internacional</display-name>
+    <icon src="http://www.lineup.net.br/canais/sic.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Sony">
+    <display-name lang="pt">Sony</display-name>
+    <icon src="http://www.lineup.net.br/canais/sony.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Space">
+    <display-name lang="pt">Space</display-name>
+    <icon src="http://www.lineup.net.br/canais/space.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SporTV">
+    <display-name lang="pt">SporTV</display-name>
+    <icon src="http://www.lineup.net.br/canais/sportv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SporTV 2">
+    <display-name lang="pt">SporTV 2</display-name>
+    <icon src="http://www.lineup.net.br/canais/sportv2.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SporTV 3">
+    <display-name lang="pt">SporTV 3</display-name>
+    <icon src="http://www.lineup.net.br/canais/sportv3.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Studio Universal">
+    <display-name lang="pt">Studio Universal</display-name>
+    <icon src="http://www.lineup.net.br/canais/studiouniversal.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Syfy">
+    <display-name lang="pt">Syfy</display-name>
+    <icon src="http://www.lineup.net.br/canais/syfy.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TBS">
+    <display-name lang="pt">TBS</display-name>
+    <icon src="http://www.lineup.net.br/canais/tbs.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TCM">
+    <display-name lang="pt">TCM</display-name>
+    <icon src="http://www.lineup.net.br/canais/tcm.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Terra Viva">
+    <display-name lang="pt">Terra Viva</display-name>
+    <icon src="http://www.lineup.net.br/canais/terraviva.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Aparecida">
+    <display-name lang="pt">TV Aparecida</display-name>
+    <icon src="http://www.lineup.net.br/canais/tvaparecida.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="pt">TLC</display-name>
+    <icon src="http://www.lineup.net.br/canais/tlc.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TNT">
+    <display-name lang="pt">TNT</display-name>
+    <icon src="http://www.lineup.net.br/canais/tnt.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TNT Series">
+    <display-name lang="pt">TNT Series</display-name>
+    <icon src="http://www.lineup.net.br/canais/tntseries.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Tooncast">
+    <display-name lang="pt">Tooncast</display-name>
+    <icon src="http://www.lineup.net.br/canais/tooncast.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TopTV">
+    <display-name lang="pt">TopTV</display-name>
+    <icon src="http://www.lineup.net.br/canais/toptv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TruTV">
+    <display-name lang="pt">TruTV</display-name>
+    <icon src="http://www.lineup.net.br/canais/trutv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Brasil">
+    <display-name lang="pt">TV Brasil</display-name>
+    <icon src="http://www.lineup.net.br/canais/tvbrasil.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Escola">
+    <display-name lang="pt">TV Escola</display-name>
+    <icon src="http://www.lineup.net.br/canais/tvescola.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Novo Tempo">
+    <display-name lang="pt">TV Novo Tempo</display-name>
+    <icon src="http://www.lineup.net.br/canais/tvnovotempo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Rá-Tim-Bum">
+    <display-name lang="pt">TV Rá-Tim-Bum</display-name>
+    <icon src="http://www.lineup.net.br/canais/tvratimbum.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TVT">
+    <display-name lang="pt">TVT</display-name>
+    <icon src="http://www.lineup.net.br/canais/tvt.gif|http://www.lineup.net.br/canais/tvbrasil.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Universal Channel">
+    <display-name lang="pt">Universal Channel</display-name>
+    <icon src="http://www.lineup.net.br/canais/universal.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Univesp TV">
+    <display-name lang="pt">Univesp TV</display-name>
+    <icon src="http://www.lineup.net.br/canais/univesp.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="VH1 HD">
+    <display-name lang="pt">VH1 HD</display-name>
+    <icon src="http://www.lineup.net.br/canais/hd/vh1.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="VH1 MegaHits">
+    <display-name lang="pt">VH1 MegaHits</display-name>
+    <icon src="http://www.lineup.net.br/canais/vh1megahits.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Viva">
+    <display-name lang="pt">Viva</display-name>
+    <icon src="http://www.lineup.net.br/canais/viva.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Warner Channel">
+    <display-name lang="pt">Warner Channel</display-name>
+    <icon src="http://www.lineup.net.br/canais/warner.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Woohoo">
+    <display-name lang="pt">Woohoo</display-name>
+    <icon src="http://www.lineup.net.br/canais/woohoo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Combate">
+    <display-name lang="pt">Combate</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Premiere Interativo">
+    <display-name lang="pt">Premiere Interativo</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Premiere Clubes">
+    <display-name lang="pt">Premiere Clubes</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Premiere 2">
+    <display-name lang="pt">Premiere 2</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20170529000000 -0300" stop="20170529003000 -0300" channel="A&amp;E">
+    <title lang="pt">Quem dá Mais?</title>
+    <desc lang="pt">Nossos caçadores de raridades urbanas vão parar na vila universitária de Fullerton, na Califórnia, em busca de livros de textos e demais curiosidades próprias dos estudantes(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20170529003000 -0300" stop="20170529010000 -0300" channel="A&amp;E">
+    <title lang="pt">Quem dá Mais?</title>
+    <desc lang="pt">Nem mesmo Las Vegas com todo o brilho de seus ornamentos estará a salvo de nossos abutres de objetos colecionáveis, que vão revirar a Cidade do Pecado para encontrar as mais curiosas peças de jogo(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20170529010000 -0300" stop="20170529020000 -0300" channel="A&amp;E">
+    <title lang="pt">Bull</title>
+    <desc lang="pt">Jornada difícil e em dose dupla: nem o cliente de Bull, um cirurgião egocêntrico, nem o advogado que escolheu para o caso, agradam ao júri. O que fará Bull para reverter a situação e ganhar o caso?(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20170529020000 -0300" stop="20170529030000 -0300" channel="A&amp;E">
+    <title lang="pt">Crianças Médiuns</title>
+    <desc lang="pt">Travis de, 18 anos, e Vicky, de 15, decidiram pôr seus dons psíquicos à disposição de uma boa causa(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Sobrenatural</category>
+  </programme>
+  <programme start="20170529030000 -0300" stop="20170529032200 -0300" channel="A&amp;E">
+    <title lang="pt">Resgatando Vidas</title>
+    <desc lang="pt">As gêmeas de 16 anos, Paige e Britney, estão em uma espiral descendente de uso de drogas e comportamento criminoso. A equipe de Resgatando Vidas se vê diante da oportunidade de separar as duas e encaminhá-las a um tratamento(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20170529032200 -0300" stop="20170529034500 -0300" channel="A&amp;E">
+    <title lang="pt">Resgatando Vidas</title>
+    <desc lang="pt">Taylor, de 16 anos, uma estrela de softball em ascensão, descobriu um novo interesse: a metanfetamina. Tony Polato vê muitas semelhanças neste caso com seu próprio passado trágico. Alguém na família da garota está possibilitando o seu vício(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20170529034500 -0300" stop="20170529040700 -0300" channel="A&amp;E">
+    <title lang="pt">Guerra de Entregas</title>
+    <desc lang="pt">Roy vira sua bússola em direção a Nova York, onde conseguiu um contrato para transportar um contêiner faraônico do famoso restaurante Tavern on the Green(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20170529040700 -0300" stop="20170529043000 -0300" channel="A&amp;E">
+    <title lang="pt">Guerra de Entregas</title>
+    <desc lang="pt">Enganada pela aparente facilidade da missão, Jennifer concorda em transportar dois animais de pequeno porte, um porco e um mini zebu, mas acaba enlouquecida com o cheiro, a obrigação de alimentá-los e pela sinfonia de guinchos que tem que suportar(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20170529043000 -0300" stop="20170529045200 -0300" channel="A&amp;E">
+    <title lang="pt">Proibido Estacionar</title>
+    <desc lang="pt">Em Detroit, um homem irritado desrespeita Eric por ter sido multado perto de sua casa. Patty tenta constranger alguns motoristas em Providence mostrando quais são as regras do jogo(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+    <episode-num system="onscreen">S6 E84</episode-num>
+  </programme>
+  <programme start="20170529045200 -0300" stop="20170529051500 -0300" channel="A&amp;E">
+    <title lang="pt">Proibido Estacionar</title>
+    <desc lang="pt">LaShelle enfrenta motoristas irritados pegos no "Triângulo das Bermudas" das multas de Detroit. Steve é confrontado por uma mulher enfurecida em Providence. Darryl Lee tenta manter de forma pacífica seu último dia de fiscalização de estacionamento(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+    <episode-num system="onscreen">S6 E85</episode-num>
+  </programme>
+  <programme start="20170529051500 -0300" stop="20170529053700 -0300" channel="A&amp;E">
+    <title lang="pt">Resgatando Vidas</title>
+    <desc lang="pt">As gêmeas de 16 anos, Paige e Britney, estão em uma espiral descendente de uso de drogas e comportamento criminoso. A equipe de Resgatando Vidas se vê diante da oportunidade de separar as duas e encaminhá-las a um tratamento(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20170529053700 -0300" stop="20170529060000 -0300" channel="A&amp;E">
+    <title lang="pt">Resgatando Vidas</title>
+    <desc lang="pt">Taylor, de 16 anos, uma estrela de softball em ascensão, descobriu um novo interesse: a metanfetamina. Tony Polato vê muitas semelhanças neste caso com seu próprio passado trágico. Alguém na família da garota está possibilitando o seu vício(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20170529060000 -0300" stop="20170529064500 -0300" channel="A&amp;E">
+    <title lang="pt">Vidas Interrompidas</title>
+    <desc lang="pt">Um arrombamento ameaçador coloca mãe contra filha, revelando um vício secreto(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20170529064500 -0300" stop="20170529070700 -0300" channel="A&amp;E">
+    <title lang="pt">Proibido Estacionar</title>
+    <desc lang="pt">Neste episódio, duas mulheres vão tentar se defender de forma absurda, por terem estacionado em um local proibido depois de uma noite de festa. Garfield e Sherry vão ter que dar um jeito de conter a fúria de alguns infratores pegos em flagrante(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+    <episode-num system="onscreen">S5 E69</episode-num>
+  </programme>
+  <programme start="20170529070700 -0300" stop="20170529073000 -0300" channel="A&amp;E">
+    <title lang="pt">Proibido Estacionar</title>
+    <desc lang="pt">Respire fundo, fique firme e não se deixe intimidar pelos ataques verbais que nossos caçadores de infrações têm que enfrentar. Desta vez eles vão ter que encarar um homem cujo carro de aluguel foi rebocado e vários outros infratores(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+    <episode-num system="onscreen">S5 E71</episode-num>
+  </programme>
+  <programme start="20170529073000 -0300" stop="20170529075200 -0300" channel="A&amp;E">
+    <title lang="pt">Quem dá Mais?</title>
+    <desc lang="pt">Nem mesmo Las Vegas com todo o brilho de seus ornamentos estará a salvo de nossos abutres de objetos colecionáveis, que vão revirar a Cidade do Pecado para encontrar as mais curiosas peças de jogo(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20170529075200 -0300" stop="20170529081500 -0300" channel="A&amp;E">
+    <title lang="pt">Quem dá Mais?</title>
+    <desc lang="pt">Dizem que Las Vegas pode enriquecer ou empobrecer alguém da noite para o dia, mas quando o sol desponta no deserto, os leilões e as vendas de garagem florescem por toda a cidade(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20170529081500 -0300" stop="20170529083700 -0300" channel="A&amp;E">
+    <title lang="pt">Quem dá Mais?</title>
+    <desc lang="pt">Em Riverside, nossos caçadores de tesouros urbanos se sentirão como peixes na água entre tantas possibilidades de negócios(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20170529083700 -0300" stop="20170529090000 -0300" channel="A&amp;E">
+    <title lang="pt">Quem dá Mais?</title>
+    <desc lang="pt">Os competidores vão fundo na busca por antiguidades e produtos industriais. Jarrod e Brandi descobrem o que parece ser um antigo porta-vinho. Dave Hester e Barry Weiss testam seus conhecimentos sobre excentricidades(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20170529090000 -0300" stop="20170529094500 -0300" channel="A&amp;E">
+    <title lang="pt">Vidas Interrompidas</title>
+    <desc lang="pt">Um arrombamento ameaçador coloca mãe contra filha, revelando um vício secreto(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20170529094500 -0300" stop="20170529100700 -0300" channel="A&amp;E">
+    <title lang="pt">Proibido Estacionar</title>
+    <desc lang="pt">Neste episódio, duas mulheres vão tentar se defender de forma absurda, por terem estacionado em um local proibido depois de uma noite de festa. Garfield e Sherry vão ter que dar um jeito de conter a fúria de alguns infratores pegos em flagrante(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+    <episode-num system="onscreen">S5 E69</episode-num>
+  </programme>
+  <programme start="20170529100700 -0300" stop="20170529103000 -0300" channel="A&amp;E">
+    <title lang="pt">Proibido Estacionar</title>
+    <desc lang="pt">Respire fundo, fique firme e não se deixe intimidar pelos ataques verbais que nossos caçadores de infrações têm que enfrentar. Desta vez eles vão ter que encarar um homem cujo carro de aluguel foi rebocado e vários outros infratores(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+    <episode-num system="onscreen">S5 E71</episode-num>
+  </programme>
+  <programme start="20170529103000 -0300" stop="20170529105200 -0300" channel="A&amp;E">
+    <title lang="pt">Quem dá Mais?</title>
+    <desc lang="pt">Nem mesmo Las Vegas com todo o brilho de seus ornamentos estará a salvo de nossos abutres de objetos colecionáveis, que vão revirar a Cidade do Pecado para encontrar as mais curiosas peças de jogo(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20170529105200 -0300" stop="20170529111500 -0300" channel="A&amp;E">
+    <title lang="pt">Quem dá Mais?</title>
+    <desc lang="pt">Dizem que Las Vegas pode enriquecer ou empobrecer alguém da noite para o dia, mas quando o sol desponta no deserto, os leilões e as vendas de garagem florescem por toda a cidade(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20170529111500 -0300" stop="20170529113700 -0300" channel="A&amp;E">
+    <title lang="pt">Quem dá Mais?</title>
+    <desc lang="pt">Em Riverside, nossos caçadores de tesouros urbanos se sentirão como peixes na água entre tantas possibilidades de negócios(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20170529113700 -0300" stop="20170529120000 -0300" channel="A&amp;E">
+    <title lang="pt">Quem dá Mais?</title>
+    <desc lang="pt">Os competidores vão fundo na busca por antiguidades e produtos industriais. Jarrod e Brandi descobrem o que parece ser um antigo porta-vinho. Dave Hester e Barry Weiss testam seus conhecimentos sobre excentricidades(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20170529120000 -0300" stop="20170529130000 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <desc lang="pt">Quando se trabalha no combate à criminalidade e administração da justiça, favores nunca devem ser deixados de lado, e os membros do NCIS têm isso bem claro(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20170529130000 -0300" stop="20170529140000 -0300" channel="A&amp;E">
+    <title lang="pt">Ncis: Los Angeles</title>
+    <desc lang="pt">A equipe do NCIS: LA descobre o envolvimento de um deles num caso quando investigam o assassinato de um contratado da Marinha envolvido em transações ilegais de dados confidenciais. Enquanto isso, Hetty está sendo investigado em Washington, D.C(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20170529140000 -0300" stop="20170529143000 -0300" channel="A&amp;E">
+    <title lang="pt">Proibido Estacionar</title>
+    <desc lang="pt">Neste episódio, duas mulheres vão tentar se defender de forma absurda, por terem estacionado em um local proibido depois de uma noite de festa. Garfield e Sherry vão ter que dar um jeito de conter a fúria de alguns infratores pegos em flagrante(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+    <episode-num system="onscreen">S5 E69</episode-num>
+  </programme>
+  <programme start="20170529143000 -0300" stop="20170529150000 -0300" channel="A&amp;E">
+    <title lang="pt">Proibido Estacionar</title>
+    <desc lang="pt">Respire fundo, fique firme e não se deixe intimidar pelos ataques verbais que nossos caçadores de infrações têm que enfrentar. Desta vez eles vão ter que encarar um homem cujo carro de aluguel foi rebocado e vários outros infratores(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+    <episode-num system="onscreen">S5 E71</episode-num>
+  </programme>
+  <programme start="20170529150000 -0300" stop="20170529153000 -0300" channel="A&amp;E">
+    <title lang="pt">Quem dá Mais?</title>
+    <desc lang="pt">Em Riverside, nossos caçadores de tesouros urbanos se sentirão como peixes na água entre tantas possibilidades de negócios(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20170529153000 -0300" stop="20170529160000 -0300" channel="A&amp;E">
+    <title lang="pt">Quem dá Mais?</title>
+    <desc lang="pt">Os competidores vão fundo na busca por antiguidades e produtos industriais. Jarrod e Brandi descobrem o que parece ser um antigo porta-vinho. Dave Hester e Barry Weiss testam seus conhecimentos sobre excentricidades(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20170529160000 -0300" stop="20170529170000 -0300" channel="A&amp;E">
+    <title lang="pt">Crianças Médiuns</title>
+    <desc lang="pt">Travis de, 18 anos, e Vicky, de 15, decidiram pôr seus dons psíquicos à disposição de uma boa causa(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Sobrenatural</category>
+  </programme>
+  <programme start="20170529170000 -0300" stop="20170529180000 -0300" channel="A&amp;E">
+    <title lang="pt">Obsessivos Compulsivos: Alan e Julie</title>
+    <desc lang="pt">A mania de Alan de acumular coisas se tornou tão grande que o Serviço de Proteção à Criança lhe tirou seu filho de 3 anos ao saber que ele o levava em seus mergulhos no lixo alheio(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20170529180000 -0300" stop="20170529190000 -0300" channel="A&amp;E">
+    <title lang="pt">Sem Volta</title>
+    <desc lang="pt">Os montanhistas seguem em frente, mas Sapo acaba ficando para trás, sozinho. Yordi escuta uma conversa de Claire com Solis e começa a chantageá-lo(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <country>Brasil</country>
+    <episode-num system="onscreen">S1 E9</episode-num>
+  </programme>
+  <programme start="20170529190000 -0300" stop="20170529200000 -0300" channel="A&amp;E">
+    <title lang="pt">Obsessivos Compulsivos</title>
+    <desc lang="pt">Filho de uma acumuladora, Andrew, aos 19 anos, não sabe viver se não for cercado por desordem e sujeira, mas ele diz que tem vontade de mudar(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20170529200000 -0300" stop="20170529205000 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <desc lang="pt">A casa de Maggie é tão repleta de coisas que sua neta tem que dormir sobre pilhas e tomar banho fora da casa com uma mangueira. Ann, a antiga proprietária de um spa está quase perdendo seu parceiro devido ao problema de acúmulo(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20170529205000 -0300" stop="20170529211200 -0300" channel="A&amp;E">
+    <title lang="pt">Barrados na Fronteira - EUA</title>
+    <desc lang="pt">Oficiais do aeroporto JFK recebem um alerta sobre um possível contrabando de drogas em mochilas, o que acarreta uma busca desenfreada(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20170529211200 -0300" stop="20170529213500 -0300" channel="A&amp;E">
+    <title lang="pt">Barrados na Fronteira - EUA</title>
+    <desc lang="pt">Uma maleta ensanguentada chama a atenção no aeroporto de Detroit e os oficiais agem de imediato. O que seu dono esconde?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20170529213500 -0300" stop="20170529231500 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia 24 Horas</title>
+    <desc lang="pt">Neste episódio, perseguição policial a carro furtado. PM atende chamado de agressão com vítima e também uma discussão familiar. Estes e outros casos no Policia 24h(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>Brasil</country>
+    <episode-num system="onscreen">S3 E121</episode-num>
+  </programme>
+  <programme start="20170529231500 -0300" stop="20170530000000 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <desc lang="pt">Marlene e Jeff tinham tudo: dinheiro, amor e conforto. Mas sua vida de conto de fadas terminou quando eles perderam o que mais amavam, e agora ela acumula lixo e enche sua casa de materiais de construção. Será que eles vão ser felizes de novo?(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20170530000000 -0300" stop="20170530010000 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <desc lang="pt">A casa de Maggie é tão repleta de coisas que sua neta tem que dormir sobre pilhas e tomar banho fora da casa com uma mangueira. Ann, a antiga proprietária de um spa está quase perdendo seu parceiro devido ao problema de acúmulo(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20170530010000 -0300" stop="20170530020000 -0300" channel="A&amp;E">
+    <title lang="pt">Obsessivos Compulsivos</title>
+    <desc lang="pt">Filho de uma acumuladora, Andrew, aos 19 anos, não sabe viver se não for cercado por desordem e sujeira, mas ele diz que tem vontade de mudar(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20170530020000 -0300" stop="20170530030000 -0300" channel="A&amp;E">
+    <title lang="pt">Ncis: Los Angeles</title>
+    <desc lang="pt">A equipe do NCIS: LA descobre o envolvimento de um deles num caso quando investigam o assassinato de um contratado da Marinha envolvido em transações ilegais de dados confidenciais. Enquanto isso, Hetty está sendo investigado em Washington, D.C(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20170530030000 -0300" stop="20170530032200 -0300" channel="A&amp;E">
+    <title lang="pt">Barrados na Fronteira - EUA</title>
+    <desc lang="pt">Oficiais do aeroporto JFK recebem um alerta sobre um possível contrabando de drogas em mochilas, o que acarreta uma busca desenfreada(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
